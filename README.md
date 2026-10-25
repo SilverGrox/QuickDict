@@ -1,6 +1,6 @@
 <div align="center">
 
-# QuickDict•闪词
+# QuickDict•闪查
 
 ### 一款为 Windows 打造的轻量级桌面词典
 
