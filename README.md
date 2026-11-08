@@ -14,7 +14,7 @@
 </p>
 
 <p>
-  <a href="ms-windows-store://pdp/?productid=9NL7NFT20FKD">
+  <a href="https://apps.microsoft.com/detail/9NL7NFT20FKD?hl=neutral&amp;gl=CN&amp;ocid=pdpshare">
     <img src="https://get.microsoft.com/images/zh-CN%20dark.svg" height="48" alt="从 Microsoft Store 获取">
   </a>
 </p>
